@@ -1,6 +1,8 @@
 # Instructions
 
-Make sure all the files are in the same directory. Using terminal, use the cd command to navigate to that folder that contains these files and run ```python gen_individual_permutations.py```
+Make sure all the files are in the same directory. Using terminal, use the cd command to navigate to that folder that contains these files. 
+You need to first install the requirements. Run ```pip install -r requirements.txt```. 
+After all the requirements have been installed, run ```python gen_individual_permutations.py```
 
 The file ```gen_individual_permutations``` will generate all the permutations for each particular contraceptive and store it in a csv with the name
 ```contraceptive_name_permutations.csv```
